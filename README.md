@@ -123,8 +123,5 @@ This project was created to:
 
 ## Author
 
-Shaurya Pratap Singh
-
-B.Tech Computer Science Student
-
+Shaurya Singh Shekhawat
 Linux Enthusiast | Networking | Cybersecurity | Open Source
